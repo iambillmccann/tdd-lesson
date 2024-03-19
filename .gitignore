@@ -1,6 +1,4 @@
-venv/*
-stage_1/.pytest_cache/*
-stage_2/.pytest_cache/*
-stage_3/.pytest_cache/*
-stage_1/tests/__pycache__/test_calculator.cpython-312-pytest-8.1.1.pyc
-stage_2/tests/__pycache__/test_calculator.cpython-312-pytest-8.1.1.pyc
+venv/
+.pytest_cache/
+__pycache__/
+*.pyc
